@@ -1,0 +1,6 @@
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\BusinessLogic\obj\Debug\BusinessLogic.pdb

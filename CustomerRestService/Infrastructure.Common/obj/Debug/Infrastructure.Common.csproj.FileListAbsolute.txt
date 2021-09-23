@@ -1,0 +1,5 @@
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\Infrastructure.Common\bin\Debug\Infrastructure.Common.dll
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\Infrastructure.Common\bin\Debug\Infrastructure.Common.pdb
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\Infrastructure.Common\obj\Debug\Infrastructure.Common.csproj.CoreCompileInputs.cache
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\Infrastructure.Common\obj\Debug\Infrastructure.Common.dll
+C:\Users\RoosterMaind\Desktop\Ptterns\CustomerRestService\Infrastructure.Common\obj\Debug\Infrastructure.Common.pdb
